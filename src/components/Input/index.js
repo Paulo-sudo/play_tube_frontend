@@ -18,6 +18,12 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 font-size: 30px;
 font-weight: bold;
 padding-left:20px;
+@media (max-width: 580px) {
+    font-size: 20px;
+  }
+@media (max-width: 350px) {
+font-size: 14px;
+}
 `
 
     ;
